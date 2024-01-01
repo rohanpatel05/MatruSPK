@@ -1,6 +1,6 @@
 <h1>MatruSPK</h1>
 
-<h3>NOTE: The hosted server is shut down.</h3>
+<h3>NOTE: The hosted server is currently shut down.</h3>
 
 <h2>Introduction</h2>
 
